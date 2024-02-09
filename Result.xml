@@ -1,0 +1,6785 @@
+<?xml version="1.0" ?>
+<response>
+	
+	
+	<channels>
+		
+		
+		<item>
+			
+			
+			<channeltype>inflow</channeltype>
+			
+			
+			<stsize>20</stsize>
+			
+			
+			<flowinair>23290</flowinair>
+			
+			
+			<montage>stand</montage>
+			
+			
+			<serviceside>left</serviceside>
+			
+			
+			<sections>
+				
+				
+				<item>
+					
+					
+					<sectiontype>fi</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>0</devicechannelkey>
+					
+					
+					<signforcompany>F1</signforcompany>
+					
+					
+					<weight>122</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Секция карманного фильтра</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front>
+								
+								
+								<sectiontype>panel</sectiontype>
+								
+								
+								<propertycurrentsubpartition>general</propertycurrentsubpartition>
+								
+								
+								<devicechannelkey/>
+								
+								
+								<signforcompany>P1</signforcompany>
+								
+								
+								<weight>24.5</weight>
+								
+								
+								<levels>1</levels>
+								
+								
+								<montage>stand</montage>
+								
+								
+								<channeltype>inflow</channeltype>
+								
+								
+								<name>Торцевая панель с гибкой вставкой (на половину сечение)</name>
+								
+								
+								<companysign>ovk</companysign>
+								
+								
+								<stsize>20</stsize>
+								
+								
+								<children>
+									
+									
+									<inner>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</inner>
+									
+									
+									<outer>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front>
+											
+											
+											<sectionholdertype>krufilter</sectionholdertype>
+											
+											
+											<percentrecyclingwinter/>
+											
+											
+											<isoutside>true</isoutside>
+											
+											
+											<qmax>0</qmax>
+											
+											
+											<sectiontype>za</sectiontype>
+											
+											
+											<isbypass>false</isbypass>
+											
+											
+											<propertycurrentsubpartition>general</propertycurrentsubpartition>
+											
+											
+											<devicechannelkey/>
+											
+											
+											<signforcompany>K1</signforcompany>
+											
+											
+											<weight>42.1</weight>
+											
+											
+											<levels>1</levels>
+											
+											
+											<montage>stand</montage>
+											
+											
+											<channeltype>inflow</channeltype>
+											
+											
+											<name>Заслонка торцевая</name>
+											
+											
+											<companysign>ovk</companysign>
+											
+											
+											<stsize>20</stsize>
+											
+											
+											<children>
+												
+												
+												<inner>
+													
+													
+													<top/>
+													
+													
+													<bottom/>
+													
+													
+													<left/>
+													
+													
+													<right/>
+													
+													
+													<front/>
+													
+													
+													<back/>
+													
+												
+												</inner>
+												
+												
+												<outer>
+													
+													
+													<top/>
+													
+													
+													<bottom/>
+													
+													
+													<left/>
+													
+													
+													<right/>
+													
+													
+													<front/>
+													
+													
+													<back/>
+													
+												
+												</outer>
+												
+											
+											</children>
+											
+											
+											<content/>
+											
+											
+											<dimensions>
+												
+												
+												<length>125</length>
+												
+												
+												<height>1040</height>
+												
+												
+												<width>1632</width>
+												
+											
+											</dimensions>
+											
+											
+											<imagedimensions>
+												
+												
+												<length>125</length>
+												
+												
+												<height>1040</height>
+												
+												
+												<width>1632</width>
+												
+											
+											</imagedimensions>
+											
+											
+											<flowinair>23290</flowinair>
+											
+											
+											<flowoutair>23290</flowoutair>
+											
+											
+											<serviceside>left</serviceside>
+											
+											
+											<subtype>cap</subtype>
+											
+											
+											<devicetype>anr</devicetype>
+											
+											
+											<floor>1</floor>
+											
+											
+											<largeframe>false</largeframe>
+											
+											
+											<beforefan>true</beforefan>
+											
+											
+											<location>std</location>
+											
+											
+											<isdraw>true</isdraw>
+											
+											
+											<calcforeurope>false</calcforeurope>
+											
+											
+											<uniqid>Section_62417c39f2f19</uniqid>
+											
+											
+											<flowvelocityair/>
+											
+											
+											<droppressureair/>
+											
+											
+											<uuid>35e85b76-d77c-4fec-b67f-ea7eab6490bd</uuid>
+											
+											
+											<incombo>false</incombo>
+											
+											
+											<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+											
+											
+											<diameterdrainagepipe>0</diameterdrainagepipe>
+											
+											
+											<fillingvolume>0</fillingvolume>
+											
+											
+											<savepropertyvalue/>
+											
+											
+											<isafterstreet>false</isafterstreet>
+											
+											
+											<esatechinfo/>
+											
+											
+											<esatechwarning/>
+											
+											
+											<esacritical/>
+											
+											
+											<tinairinflowwinter/>
+											
+											
+											<toutairinflowwinter/>
+											
+											
+											<tinairoutflowwinter/>
+											
+											
+											<humidityinairinflowwinter/>
+											
+											
+											<humidityoutairinflowwinter/>
+											
+											
+											<humidityinairoutflowwinter/>
+											
+											
+											<temptransferwinter>false</temptransferwinter>
+											
+											
+											<humidityoutwinter/>
+											
+											
+											<toutairwinter/>
+											
+											
+											<tinairwinter/>
+											
+											
+											<humidityinwinter/>
+											
+											
+											<recycletype/>
+											
+											
+											<recycletypewinter/>
+											
+											
+											<hassummer>false</hassummer>
+											
+											
+											<haswinter>false</haswinter>
+											
+											
+											<sign>ZA</sign>
+											
+											
+											<rfakey>anr:20:ZA:125</rfakey>
+											
+										
+										</front>
+										
+										
+										<back/>
+										
+									
+									</outer>
+									
+								
+								</children>
+								
+								
+								<content/>
+								
+								
+								<dimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</dimensions>
+								
+								
+								<imagedimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</imagedimensions>
+								
+								
+								<flowinair>23290</flowinair>
+								
+								
+								<flowoutair>23290</flowoutair>
+								
+								
+								<serviceside>left</serviceside>
+								
+								
+								<subtype>p1</subtype>
+								
+								
+								<devicetype>anr</devicetype>
+								
+								
+								<floor>1</floor>
+								
+								
+								<largeframe>false</largeframe>
+								
+								
+								<beforefan>true</beforefan>
+								
+								
+								<location>std</location>
+								
+								
+								<isdraw>true</isdraw>
+								
+								
+								<calcforeurope>false</calcforeurope>
+								
+								
+								<uniqid>Section_62417c39f2ee1</uniqid>
+								
+								
+								<flowvelocityair/>
+								
+								
+								<droppressureair/>
+								
+								
+								<uuid>2446f1cb-ccca-4892-9d20-5c8b33a47793</uuid>
+								
+								
+								<incombo>false</incombo>
+								
+								
+								<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+								
+								
+								<diameterdrainagepipe>0</diameterdrainagepipe>
+								
+								
+								<fillingvolume>0</fillingvolume>
+								
+								
+								<savepropertyvalue/>
+								
+								
+								<isafterstreet>false</isafterstreet>
+								
+								
+								<esatechinfo/>
+								
+								
+								<esatechwarning/>
+								
+								
+								<esacritical/>
+								
+								
+								<sign>PANEL.P1</sign>
+								
+								
+								<rfakey>anr:20:PANEL.P1:150</rfakey>
+								
+							
+							</front>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content>
+						
+						
+						<item>
+							
+							
+							<pollution>0</pollution>
+							
+							
+							<isoldcalcfilterpollution>false</isoldcalcfilterpollution>
+							
+							
+							<cleaningclass>EU4</cleaningclass>
+							
+							
+							<sectiontype>fi_car</sectiontype>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany>F1</signforcompany>
+							
+							
+							<weight>122</weight>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>inflow</channeltype>
+							
+							
+							<name>Фильтр вставка EU4</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>575</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>575</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>23290</flowinair>
+							
+							
+							<flowoutair>23290</flowoutair>
+							
+							
+							<serviceside>left</serviceside>
+							
+							
+							<subtype>krufilter</subtype>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>1</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f2ea7</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>ac91bddc-2787-425e-a12e-1b79312fcb51</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<sign>FKU.EU4</sign>
+							
+							
+							<rfakey>anr:20:FKU.EU4:575</rfakey>
+							
+						
+						</item>
+						
+					
+					</content>
+					
+					
+					<dimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>krufilter</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f2e6f</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>3908cf21-fb6e-43f1-aeea-4ef5e7e3910f</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>FKU</sign>
+					
+					
+					<rfakey>anr:20:FKU:575</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<sectiontype>fi</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>1</devicechannelkey>
+					
+					
+					<signforcompany>F7</signforcompany>
+					
+					
+					<weight>168</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Секция карманного фильтра</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content>
+						
+						
+						<item>
+							
+							
+							<pollution>0</pollution>
+							
+							
+							<isoldcalcfilterpollution>false</isoldcalcfilterpollution>
+							
+							
+							<cleaningclass>EU7</cleaningclass>
+							
+							
+							<sectiontype>fi_car</sectiontype>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany>F7</signforcompany>
+							
+							
+							<weight>168</weight>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>inflow</channeltype>
+							
+							
+							<name>Фильтр вставка EU7</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>1100</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>1100</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>23290</flowinair>
+							
+							
+							<flowoutair>23290</flowoutair>
+							
+							
+							<serviceside>left</serviceside>
+							
+							
+							<subtype>krfilter</subtype>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>1</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f2f89</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>a50a6205-e9e8-486c-aa05-dc62b4673cfc</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<sign>FKR.EU7</sign>
+							
+							
+							<rfakey>anr:20:FKR.EU7:1100</rfakey>
+							
+						
+						</item>
+						
+					
+					</content>
+					
+					
+					<dimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>krfilter</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f2f52</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>d00423b3-0b09-4779-9146-2c6d51b460e1</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>FKR</sign>
+					
+					
+					<rfakey>anr:20:FKR:1100</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tinairinflow/>
+					
+					
+					<toutairoutflow/>
+					
+					
+					<toutairinflow/>
+					
+					
+					<humidityinflow/>
+					
+					
+					<humidityoutflow/>
+					
+					
+					<flowinflow/>
+					
+					
+					<flowoutflow/>
+					
+					
+					<qneed/>
+					
+					
+					<kpd/>
+					
+					
+					<temptransfer>false</temptransfer>
+					
+					
+					<sectiontype>re</sectiontype>
+					
+					
+					<levels>2</levels>
+					
+					
+					<humidityoutoutflow>0</humidityoutoutflow>
+					
+					
+					<thermalefficiencyofheatrecovery>0</thermalefficiencyofheatrecovery>
+					
+					
+					<toutairoutflowstreet/>
+					
+					
+					<heatexchangertemperaturewinter>0</heatexchangertemperaturewinter>
+					
+					
+					<heatexchangertemperaturesummer>0</heatexchangertemperaturesummer>
+					
+					
+					<workingmode>rotor_working_mode_condensing</workingmode>
+					
+					
+					<propertycurrentsubpartition>winter</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>2</devicechannelkey>
+					
+					
+					<signforcompany>R2</signforcompany>
+					
+					
+					<weight>906</weight>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Роторный рекуператор</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>3323</height>
+						
+						
+						<width>2585</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>3323</height>
+						
+						
+						<width>2585</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>re</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f2fc2</uniqid>
+					
+					
+					<flowvelocityair>3.166</flowvelocityair>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>954e782c-7d08-4627-85d1-75c9123c8361</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>REG</sign>
+					
+					
+					<rfakey>anr:20:REG:1100</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tinwater>85</tinwater>
+					
+					
+					<toutwater>65</toutwater>
+					
+					
+					<qneed>397.471</qneed>
+					
+					
+					<qmax>408.351</qmax>
+					
+					
+					<gwater>18.39</gwater>
+					
+					
+					<tairmax>27.4</tairmax>
+					
+					
+					<watervelocity>0</watervelocity>
+					
+					
+					<droppressurewater>16.6</droppressurewater>
+					
+					
+					<connectwater/>
+					
+					
+					<flowmassair>0.01</flowmassair>
+					
+					
+					<glycolamount>40</glycolamount>
+					
+					
+					<rows>3</rows>
+					
+					
+					<sectiontype>nav</sectiontype>
+					
+					
+					<withhydrophilicfoil>false</withhydrophilicfoil>
+					
+					
+					<airdestinyforcetemperature/>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<carriertype>propylene</carriertype>
+					
+					
+					<fluidvelocity>0</fluidvelocity>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>3</devicechannelkey>
+					
+					
+					<signforcompany>N1.3</signforcompany>
+					
+					
+					<weight>170.6</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Нагревание (водяное 3-х рядные)</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>wheater</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f2ffb</uniqid>
+					
+					
+					<flowvelocityair>3.336</flowvelocityair>
+					
+					
+					<droppressureair>74.3</droppressureair>
+					
+					
+					<uuid>117fd36c-567f-46e8-a3ad-7ca47f2f308f</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>WWN.3</sign>
+					
+					
+					<rfakey>anr:20:WWN.3:575</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tairinfirstheater>-26</tairinfirstheater>
+					
+					
+					<tairoutfirstheater>25.7</tairoutfirstheater>
+					
+					
+					<humidifyinfirstheater>80</humidifyinfirstheater>
+					
+					
+					<humidifyoutfirstheater>1.4</humidifyoutfirstheater>
+					
+					
+					<tairinsecondheater>10.1</tairinsecondheater>
+					
+					
+					<tairoutsecondheater>20</tairoutsecondheater>
+					
+					
+					<humidifyinsecondheater>85</humidifyinsecondheater>
+					
+					
+					<humidifyoutsecondheater>45</humidifyoutsecondheater>
+					
+					
+					<tairinirrigation>25.7</tairinirrigation>
+					
+					
+					<tairoutirrigation>10.1</tairoutirrigation>
+					
+					
+					<humidifyinirrigation>1.4</humidifyinirrigation>
+					
+					
+					<humidifyoutirrigation>85</humidifyoutirrigation>
+					
+					
+					<pumpname>5,5кВт/11,6А/3-380</pumpname>
+					
+					
+					<connectfeed/>
+					
+					
+					<connectdrain/>
+					
+					
+					<connectoverflow/>
+					
+					
+					<kpd>85</kpd>
+					
+					
+					<waterconsumption>182</waterconsumption>
+					
+					
+					<rows>1</rows>
+					
+					
+					<sectiontype>or</sectiontype>
+					
+					
+					<irrigationsign/>
+					
+					
+					<sign>U1.1</sign>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>4</devicechannelkey>
+					
+					
+					<signforcompany>U1.1</signforcompany>
+					
+					
+					<weight>833</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Камера орошения ( форсуночное )</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>2150</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>2150</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>firr</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f3033</uniqid>
+					
+					
+					<flowvelocityair>2.7</flowvelocityair>
+					
+					
+					<droppressureair>130.62</droppressureair>
+					
+					
+					<uuid>6a18758c-cd10-4958-b926-9e10478c6d16</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<rfakey>anr:20:U1.1:2150</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tinwater>8</tinwater>
+					
+					
+					<toutwater>13</toutwater>
+					
+					
+					<vairout/>
+					
+					
+					<qneed>60.458</qneed>
+					
+					
+					<gwater>10.38</gwater>
+					
+					
+					<dzeta/>
+					
+					
+					<tp/>
+					
+					
+					<vwater/>
+					
+					
+					<fsair/>
+					
+					
+					<ssair/>
+					
+					
+					<fswater/>
+					
+					
+					<volume/>
+					
+					
+					<flowmodeinfo/>
+					
+					
+					<rows>3</rows>
+					
+					
+					<glycolamount>0</glycolamount>
+					
+					
+					<droppressurewater>9.7</droppressurewater>
+					
+					
+					<toutmax>19.2</toutmax>
+					
+					
+					<needtoutcorrectfordpwaterlimit>false</needtoutcorrectfordpwaterlimit>
+					
+					
+					<sectiontype>oh</sectiontype>
+					
+					
+					<carriertype>water</carriertype>
+					
+					
+					<isneedmeicalc>false</isneedmeicalc>
+					
+					
+					<maxrowslimit>9223372036854775807</maxrowslimit>
+					
+					
+					<contourcount/>
+					
+					
+					<withhydrophilicfoil>false</withhydrophilicfoil>
+					
+					
+					<fluidvelocity>0</fluidvelocity>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>5</devicechannelkey>
+					
+					
+					<signforcompany>C1.3</signforcompany>
+					
+					
+					<weight>197.6</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Охлаждение водяное 3-х рядное</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>wcooler</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f306b</uniqid>
+					
+					
+					<flowvelocityair>3.336</flowvelocityair>
+					
+					
+					<droppressureair>164.8</droppressureair>
+					
+					
+					<uuid>0ab1104c-39f1-4940-af40-6034642d3d6d</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>WLO.3.L</sign>
+					
+					
+					<rfakey>anr:20:WLO.3.L:575</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tinwater>85</tinwater>
+					
+					
+					<toutwater>65</toutwater>
+					
+					
+					<qneed>77.614</qneed>
+					
+					
+					<qmax>191.276</qmax>
+					
+					
+					<gwater>3.59</gwater>
+					
+					
+					<tairmax>35.8</tairmax>
+					
+					
+					<watervelocity>0</watervelocity>
+					
+					
+					<droppressurewater>1.3</droppressurewater>
+					
+					
+					<connectwater/>
+					
+					
+					<flowmassair>0</flowmassair>
+					
+					
+					<glycolamount>40</glycolamount>
+					
+					
+					<rows>2</rows>
+					
+					
+					<sectiontype>nav</sectiontype>
+					
+					
+					<withhydrophilicfoil>false</withhydrophilicfoil>
+					
+					
+					<airdestinyforcetemperature/>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<carriertype>propylene</carriertype>
+					
+					
+					<fluidvelocity>0</fluidvelocity>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>6</devicechannelkey>
+					
+					
+					<signforcompany>N1.2</signforcompany>
+					
+					
+					<weight>159</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Нагревание (водяное 2-х рядные)</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>wheater</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f30a4</uniqid>
+					
+					
+					<flowvelocityair>3.336</flowvelocityair>
+					
+					
+					<droppressureair>69.6</droppressureair>
+					
+					
+					<uuid>484f4566-3d7d-4002-ab60-4cde44de1e55</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>WWN.2</sign>
+					
+					
+					<rfakey>anr:20:WWN.2:575</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<sectiontype>sh</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>7</devicechannelkey>
+					
+					
+					<signforcompany>H2</signforcompany>
+					
+					
+					<weight>306</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Шумоглушение+промежуточный блок</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>unoise</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f30dc</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>1bc505d9-b07a-4602-96f8-b854c5ca77ec</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>SH.LONG</sign>
+					
+					
+					<rfakey>anr:20:SH.LONG:1625</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<automaticsettype>selection</automaticsettype>
+					
+					
+					<flowwork>23290</flowwork>
+					
+					
+					<pressurework>1665.4</pressurework>
+					
+					
+					<withinverter>true</withinverter>
+					
+					
+					<precisiondef>5</precisiondef>
+					
+					
+					<precisiondefwork>0</precisiondefwork>
+					
+					
+					<sectiontype>ve</sectiontype>
+					
+					
+					<regulationpressure>0</regulationpressure>
+					
+					
+					<freepressure>799.98</freepressure>
+					
+					
+					<isreserveengine>false</isreserveengine>
+					
+					
+					<hasdoublefan>false</hasdoublefan>
+					
+					
+					<combinationweight>249</combinationweight>
+					
+					
+					<combinationid>275</combinationid>
+					
+					
+					<ziehlarticleno/>
+					
+					
+					<consumepower/>
+					
+					
+					<kpd/>
+					
+					
+					<sfp/>
+					
+					
+					<sfpclass>SFP 5</sfpclass>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>8</devicechannelkey>
+					
+					
+					<signforcompany>V1.1.P80.R-18,5x15</signforcompany>
+					
+					
+					<weight>470</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Вентилятор (выхлоп прямо)</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content>
+						
+						
+						<item>
+							
+							
+							<revnominalmotor>1455</revnominalmotor>
+							
+							
+							<frequencywork/>
+							
+							
+							<revminmotor>0</revminmotor>
+							
+							
+							<revasyncmotor>1500</revasyncmotor>
+							
+							
+							<ifrequency>50</ifrequency>
+							
+							
+							<revwork>1467</revwork>
+							
+							
+							<nominalpower>18.5</nominalpower>
+							
+							
+							<amperage>35</amperage>
+							
+							
+							<idfrequency>344</idfrequency>
+							
+							
+							<safetype>notk</safetype>
+							
+							
+							<polarity>4</polarity>
+							
+							
+							<kpd>92.6</kpd>
+							
+							
+							<frequencymax>94</frequencymax>
+							
+							
+							<frequencymin>32</frequencymin>
+							
+							
+							<voltage/>
+							
+							
+							<sectiontype>s_t_engine</sectiontype>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany/>
+							
+							
+							<weight>0</weight>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>inflow</channeltype>
+							
+							
+							<name>АИР160M4</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>23290</flowinair>
+							
+							
+							<flowoutair>23290</flowoutair>
+							
+							
+							<serviceside>left</serviceside>
+							
+							
+							<subtype/>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>1</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f314b</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>6d6a5aa9-e12a-4032-8a8f-8f9df4c7be65</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve/>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<rfakey>anr:20:ENGINE:0</rfakey>
+							
+						
+						</item>
+						
+						
+						<item>
+							
+							
+							<maxflow>0</maxflow>
+							
+							
+							<minflow>0</minflow>
+							
+							
+							<revnominalwheel>1620</revnominalwheel>
+							
+							
+							<diameter>800</diameter>
+							
+							
+							<flowmin>0</flowmin>
+							
+							
+							<flowmax>43000</flowmax>
+							
+							
+							<maxrev>1620</maxrev>
+							
+							
+							<pressuremin>0</pressuremin>
+							
+							
+							<pressuremax>2450</pressuremax>
+							
+							
+							<sign>800Z</sign>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany/>
+							
+							
+							<weight>0</weight>
+							
+							
+							<sectiontype/>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>inflow</channeltype>
+							
+							
+							<name>ANR.800Z</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>23290</flowinair>
+							
+							
+							<flowoutair>23290</flowoutair>
+							
+							
+							<serviceside>left</serviceside>
+							
+							
+							<subtype/>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>1</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f3184</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>53dd8f8f-8595-4a2d-8331-3b3472fa5ab4</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve/>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<rfakey>anr:20:800Z:0</rfakey>
+							
+						
+						</item>
+						
+					
+					</content>
+					
+					
+					<dimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>fan</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f3114</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>80af8b35-3102-417c-a623-3da7305d65d0</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>V1</sign>
+					
+					
+					<rfakey>anr:20:V1:1625</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<sectiontype>sh</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>9</devicechannelkey>
+					
+					
+					<signforcompany>H1</signforcompany>
+					
+					
+					<weight>244</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>inflow</channeltype>
+					
+					
+					<name>Шумоглушение</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back>
+								
+								
+								<sectiontype>gv</sectiontype>
+								
+								
+								<propertycurrentsubpartition>general</propertycurrentsubpartition>
+								
+								
+								<devicechannelkey/>
+								
+								
+								<signforcompany>B1</signforcompany>
+								
+								
+								<weight>14</weight>
+								
+								
+								<levels>1</levels>
+								
+								
+								<montage>stand</montage>
+								
+								
+								<channeltype>inflow</channeltype>
+								
+								
+								<name>Торцевая гибкая вставка (на все сечение)</name>
+								
+								
+								<companysign>ovk</companysign>
+								
+								
+								<stsize>20</stsize>
+								
+								
+								<children>
+									
+									
+									<inner>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</inner>
+									
+									
+									<outer>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</outer>
+									
+								
+								</children>
+								
+								
+								<content/>
+								
+								
+								<dimensions>
+									
+									
+									<length>175</length>
+									
+									
+									<height>1582</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</dimensions>
+								
+								
+								<imagedimensions>
+									
+									
+									<length>175</length>
+									
+									
+									<height>1582</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</imagedimensions>
+								
+								
+								<flowinair>23290</flowinair>
+								
+								
+								<flowoutair>23290</flowoutair>
+								
+								
+								<serviceside>left</serviceside>
+								
+								
+								<subtype>flexible</subtype>
+								
+								
+								<devicetype>anr</devicetype>
+								
+								
+								<floor>1</floor>
+								
+								
+								<largeframe>false</largeframe>
+								
+								
+								<beforefan>true</beforefan>
+								
+								
+								<location>std</location>
+								
+								
+								<isdraw>true</isdraw>
+								
+								
+								<calcforeurope>false</calcforeurope>
+								
+								
+								<uniqid>Section_62417c39f31f5</uniqid>
+								
+								
+								<flowvelocityair/>
+								
+								
+								<droppressureair/>
+								
+								
+								<uuid>7ca4d708-636c-48fc-b28b-06304326f3c4</uuid>
+								
+								
+								<incombo>false</incombo>
+								
+								
+								<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+								
+								
+								<diameterdrainagepipe>0</diameterdrainagepipe>
+								
+								
+								<fillingvolume>0</fillingvolume>
+								
+								
+								<savepropertyvalue/>
+								
+								
+								<isafterstreet>false</isafterstreet>
+								
+								
+								<esatechinfo/>
+								
+								
+								<esatechwarning/>
+								
+								
+								<esacritical/>
+								
+								
+								<sign>GIB</sign>
+								
+								
+								<rfakey>anr:20:GIB:175</rfakey>
+								
+							
+							</back>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>23290</flowinair>
+					
+					
+					<flowoutair>23290</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>optnoise</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>false</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f31bd</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>f735388e-cf88-4b50-96f3-195edcc264cb</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>SH</sign>
+					
+					
+					<rfakey>anr:20:SH:1100</rfakey>
+					
+				
+				</item>
+				
+			
+			</sections>
+			
+			
+			<group>1</group>
+			
+			
+			<reservechannel/>
+			
+			
+			<reservefan>false</reservefan>
+			
+			
+			<positionreservefan>position-reserve-fan-none</positionreservefan>
+			
+			
+			<reserveengine>false</reserveengine>
+			
+			
+			<heatnoisesafe>false</heatnoisesafe>
+			
+			
+			<devicetype>anr</devicetype>
+			
+			
+			<companysign>ovk</companysign>
+			
+			
+			<trademark/>
+			
+			
+			<channelnum>0</channelnum>
+			
+			
+			<isreservechannel>false</isreservechannel>
+			
+			
+			<location>std</location>
+			
+			
+			<calcforeurope>false</calcforeurope>
+			
+			
+			<uniqid>Channel_62417c39f2e52</uniqid>
+			
+			
+			<uuid>bfe2f006-5591-48e1-a9a8-06c29c00390d</uuid>
+			
+			
+			<isziehlfan>false</isziehlfan>
+			
+			
+			<hasfirrigation>false</hasfirrigation>
+			
+			
+			<hasplateheatexchanger>false</hasplateheatexchanger>
+			
+			
+			<esatechinfo/>
+			
+			
+			<esatechwarning/>
+			
+			
+			<esacritical/>
+			
+			
+			<name>L/3K1/3P1/3F1/3F7/3R2/3N1.3/U1.1/3C1.3/3N1.2/3H2/3V1.1.P80.R-18,5x15/3H1/3B1</name>
+			
+			
+			<weight>3656.8</weight>
+			
+		
+		</item>
+		
+		
+		<item>
+			
+			
+			<channeltype>outflow</channeltype>
+			
+			
+			<stsize>20</stsize>
+			
+			
+			<flowinair>21415</flowinair>
+			
+			
+			<montage>stand</montage>
+			
+			
+			<serviceside>right</serviceside>
+			
+			
+			<sections>
+				
+				
+				<item>
+					
+					
+					<sectiontype>fi</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>0</devicechannelkey>
+					
+					
+					<signforcompany>F1</signforcompany>
+					
+					
+					<weight>104</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>outflow</channeltype>
+					
+					
+					<name>Секция карманного фильтра</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front>
+								
+								
+								<sectiontype>panel</sectiontype>
+								
+								
+								<propertycurrentsubpartition>general</propertycurrentsubpartition>
+								
+								
+								<devicechannelkey/>
+								
+								
+								<signforcompany>P1</signforcompany>
+								
+								
+								<weight>24.5</weight>
+								
+								
+								<levels>1</levels>
+								
+								
+								<montage>stand</montage>
+								
+								
+								<channeltype>outflow</channeltype>
+								
+								
+								<name>Торцевая панель с гибкой вставкой (на половину сечение)</name>
+								
+								
+								<companysign>ovk</companysign>
+								
+								
+								<stsize>20</stsize>
+								
+								
+								<children>
+									
+									
+									<inner>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</inner>
+									
+									
+									<outer>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</outer>
+									
+								
+								</children>
+								
+								
+								<content/>
+								
+								
+								<dimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</dimensions>
+								
+								
+								<imagedimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</imagedimensions>
+								
+								
+								<flowinair>21415</flowinair>
+								
+								
+								<flowoutair>21415</flowoutair>
+								
+								
+								<serviceside>right</serviceside>
+								
+								
+								<subtype>p1</subtype>
+								
+								
+								<devicetype>anr</devicetype>
+								
+								
+								<floor>2</floor>
+								
+								
+								<largeframe>false</largeframe>
+								
+								
+								<beforefan>true</beforefan>
+								
+								
+								<location>std</location>
+								
+								
+								<isdraw>true</isdraw>
+								
+								
+								<calcforeurope>false</calcforeurope>
+								
+								
+								<uniqid>Section_62417c39f32d5</uniqid>
+								
+								
+								<flowvelocityair/>
+								
+								
+								<droppressureair/>
+								
+								
+								<uuid>28fff319-a3e1-4a33-8e37-f8c41dbf6eb0</uuid>
+								
+								
+								<incombo>false</incombo>
+								
+								
+								<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+								
+								
+								<diameterdrainagepipe>0</diameterdrainagepipe>
+								
+								
+								<fillingvolume>0</fillingvolume>
+								
+								
+								<savepropertyvalue/>
+								
+								
+								<isafterstreet>false</isafterstreet>
+								
+								
+								<esatechinfo/>
+								
+								
+								<esatechwarning/>
+								
+								
+								<esacritical/>
+								
+								
+								<sign>PANEL.P1</sign>
+								
+								
+								<rfakey>anr:20:PANEL.P1:150</rfakey>
+								
+							
+							</front>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content>
+						
+						
+						<item>
+							
+							
+							<pollution>0</pollution>
+							
+							
+							<isoldcalcfilterpollution>false</isoldcalcfilterpollution>
+							
+							
+							<cleaningclass>EU4</cleaningclass>
+							
+							
+							<sectiontype>fi_car</sectiontype>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany>F1</signforcompany>
+							
+							
+							<weight>104</weight>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>outflow</channeltype>
+							
+							
+							<name>Фильтр вставка EU4</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>575</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>575</length>
+								
+								
+								<height>1660</height>
+								
+								
+								<width>1660</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>21415</flowinair>
+							
+							
+							<flowoutair>21415</flowoutair>
+							
+							
+							<serviceside>right</serviceside>
+							
+							
+							<subtype>krufilter</subtype>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>2</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f329c</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>a060104b-4140-4879-92f9-2aa54d134e97</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<sign>FKU.EU4</sign>
+							
+							
+							<rfakey>anr:20:FKU.EU4:575</rfakey>
+							
+						
+						</item>
+						
+					
+					</content>
+					
+					
+					<dimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>575</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>21415</flowinair>
+					
+					
+					<flowoutair>21415</flowoutair>
+					
+					
+					<serviceside>right</serviceside>
+					
+					
+					<subtype>krufilter</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>2</floor>
+					
+					
+					<largeframe>false</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f3265</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>48301427-bf8b-415c-bccf-2f31354eac88</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>FKU</sign>
+					
+					
+					<rfakey>anr:20:FKU:575</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<sectiontype>sh</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>1</devicechannelkey>
+					
+					
+					<signforcompany>H2</signforcompany>
+					
+					
+					<weight>257</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>outflow</channeltype>
+					
+					
+					<name>Шумоглушение+промежуточный блок</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>21415</flowinair>
+					
+					
+					<flowoutair>21415</flowoutair>
+					
+					
+					<serviceside>right</serviceside>
+					
+					
+					<subtype>unoise</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>2</floor>
+					
+					
+					<largeframe>false</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f330d</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>5af8af01-7ebf-4970-a671-8cba2c83cd27</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>SH.LONG</sign>
+					
+					
+					<rfakey>anr:20:SH.LONG:1625</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<automaticsettype>selection</automaticsettype>
+					
+					
+					<flowwork>21415</flowwork>
+					
+					
+					<pressurework>975.1</pressurework>
+					
+					
+					<withinverter>true</withinverter>
+					
+					
+					<precisiondef>5</precisiondef>
+					
+					
+					<precisiondefwork>0</precisiondefwork>
+					
+					
+					<sectiontype>ve</sectiontype>
+					
+					
+					<regulationpressure>0</regulationpressure>
+					
+					
+					<freepressure>700</freepressure>
+					
+					
+					<isreserveengine>false</isreserveengine>
+					
+					
+					<hasdoublefan>false</hasdoublefan>
+					
+					
+					<combinationweight>242</combinationweight>
+					
+					
+					<combinationid>274</combinationid>
+					
+					
+					<ziehlarticleno/>
+					
+					
+					<consumepower/>
+					
+					
+					<kpd/>
+					
+					
+					<sfp/>
+					
+					
+					<sfpclass>SFP 4</sfpclass>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>2</devicechannelkey>
+					
+					
+					<signforcompany>V1.1.P80.R-15x15</signforcompany>
+					
+					
+					<weight>463</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>outflow</channeltype>
+					
+					
+					<name>Вентилятор (выхлоп прямо)</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content>
+						
+						
+						<item>
+							
+							
+							<revnominalmotor>1450</revnominalmotor>
+							
+							
+							<frequencywork/>
+							
+							
+							<revminmotor>0</revminmotor>
+							
+							
+							<revasyncmotor>1500</revasyncmotor>
+							
+							
+							<ifrequency>50</ifrequency>
+							
+							
+							<revwork>1183</revwork>
+							
+							
+							<nominalpower>15</nominalpower>
+							
+							
+							<amperage>29.6</amperage>
+							
+							
+							<idfrequency>954</idfrequency>
+							
+							
+							<safetype>notk</safetype>
+							
+							
+							<polarity>4</polarity>
+							
+							
+							<kpd>92.1</kpd>
+							
+							
+							<frequencymax>94</frequencymax>
+							
+							
+							<frequencymin>32</frequencymin>
+							
+							
+							<voltage/>
+							
+							
+							<sectiontype>s_t_engine</sectiontype>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany/>
+							
+							
+							<weight>0</weight>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>outflow</channeltype>
+							
+							
+							<name>АИР160S4</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>21415</flowinair>
+							
+							
+							<flowoutair>21415</flowoutair>
+							
+							
+							<serviceside>right</serviceside>
+							
+							
+							<subtype/>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>2</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f337c</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>d36bbc8c-bbeb-48a7-b57b-f676aa1adee9</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve/>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<rfakey>anr:20:ENGINE:0</rfakey>
+							
+						
+						</item>
+						
+						
+						<item>
+							
+							
+							<maxflow>0</maxflow>
+							
+							
+							<minflow>0</minflow>
+							
+							
+							<revnominalwheel>1620</revnominalwheel>
+							
+							
+							<diameter>800</diameter>
+							
+							
+							<flowmin>0</flowmin>
+							
+							
+							<flowmax>43000</flowmax>
+							
+							
+							<maxrev>1620</maxrev>
+							
+							
+							<pressuremin>0</pressuremin>
+							
+							
+							<pressuremax>2450</pressuremax>
+							
+							
+							<sign>800Z</sign>
+							
+							
+							<propertycurrentsubpartition>general</propertycurrentsubpartition>
+							
+							
+							<devicechannelkey/>
+							
+							
+							<signforcompany/>
+							
+							
+							<weight>0</weight>
+							
+							
+							<sectiontype/>
+							
+							
+							<levels>1</levels>
+							
+							
+							<montage>stand</montage>
+							
+							
+							<channeltype>outflow</channeltype>
+							
+							
+							<name>ANR.800Z</name>
+							
+							
+							<companysign>ovk</companysign>
+							
+							
+							<stsize>20</stsize>
+							
+							
+							<children>
+								
+								
+								<inner>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</inner>
+								
+								
+								<outer>
+									
+									
+									<top/>
+									
+									
+									<bottom/>
+									
+									
+									<left/>
+									
+									
+									<right/>
+									
+									
+									<front/>
+									
+									
+									<back/>
+									
+								
+								</outer>
+								
+							
+							</children>
+							
+							
+							<content/>
+							
+							
+							<dimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</dimensions>
+							
+							
+							<imagedimensions>
+								
+								
+								<length>0</length>
+								
+								
+								<height>0</height>
+								
+								
+								<width>0</width>
+								
+							
+							</imagedimensions>
+							
+							
+							<flowinair>21415</flowinair>
+							
+							
+							<flowoutair>21415</flowoutair>
+							
+							
+							<serviceside>right</serviceside>
+							
+							
+							<subtype/>
+							
+							
+							<devicetype>anr</devicetype>
+							
+							
+							<floor>2</floor>
+							
+							
+							<largeframe>false</largeframe>
+							
+							
+							<beforefan>true</beforefan>
+							
+							
+							<location>std</location>
+							
+							
+							<isdraw>true</isdraw>
+							
+							
+							<calcforeurope>false</calcforeurope>
+							
+							
+							<uniqid>Section_62417c39f33b5</uniqid>
+							
+							
+							<flowvelocityair/>
+							
+							
+							<droppressureair/>
+							
+							
+							<uuid>6357e326-d601-47f7-bad2-61b45c9c90da</uuid>
+							
+							
+							<incombo>true</incombo>
+							
+							
+							<devicechannelcountexcludereserve/>
+							
+							
+							<diameterdrainagepipe>0</diameterdrainagepipe>
+							
+							
+							<fillingvolume>0</fillingvolume>
+							
+							
+							<savepropertyvalue/>
+							
+							
+							<isafterstreet>false</isafterstreet>
+							
+							
+							<esatechinfo/>
+							
+							
+							<esatechwarning/>
+							
+							
+							<esacritical/>
+							
+							
+							<rfakey>anr:20:800Z:0</rfakey>
+							
+						
+						</item>
+						
+					
+					</content>
+					
+					
+					<dimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>21415</flowinair>
+					
+					
+					<flowoutair>21415</flowoutair>
+					
+					
+					<serviceside>right</serviceside>
+					
+					
+					<subtype>fan</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>2</floor>
+					
+					
+					<largeframe>false</largeframe>
+					
+					
+					<beforefan>true</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f3345</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>e937a1a7-129c-4b62-906e-ba6af5809f39</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>V1</sign>
+					
+					
+					<rfakey>anr:20:V1:1625</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<tinairinflow/>
+					
+					
+					<toutairoutflow/>
+					
+					
+					<toutairinflow/>
+					
+					
+					<humidityinflow/>
+					
+					
+					<humidityoutflow/>
+					
+					
+					<flowinflow/>
+					
+					
+					<flowoutflow/>
+					
+					
+					<qneed/>
+					
+					
+					<kpd/>
+					
+					
+					<temptransfer>false</temptransfer>
+					
+					
+					<sectiontype>re</sectiontype>
+					
+					
+					<levels>2</levels>
+					
+					
+					<humidityoutoutflow>0</humidityoutoutflow>
+					
+					
+					<thermalefficiencyofheatrecovery>0</thermalefficiencyofheatrecovery>
+					
+					
+					<toutairoutflowstreet/>
+					
+					
+					<heatexchangertemperaturewinter>0</heatexchangertemperaturewinter>
+					
+					
+					<heatexchangertemperaturesummer>0</heatexchangertemperaturesummer>
+					
+					
+					<workingmode>rotor_working_mode_condensing</workingmode>
+					
+					
+					<propertycurrentsubpartition>winter</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>3</devicechannelkey>
+					
+					
+					<signforcompany>R2</signforcompany>
+					
+					
+					<weight>0</weight>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>outflow</channeltype>
+					
+					
+					<name>Роторный рекуператор</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>3323</height>
+						
+						
+						<width>2585</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1100</length>
+						
+						
+						<height>3323</height>
+						
+						
+						<width>2585</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>21415</flowinair>
+					
+					
+					<flowoutair>21415</flowoutair>
+					
+					
+					<serviceside>left</serviceside>
+					
+					
+					<subtype>re</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>1</floor>
+					
+					
+					<largeframe>true</largeframe>
+					
+					
+					<beforefan>false</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f33ee</uniqid>
+					
+					
+					<flowvelocityair>3.496</flowvelocityair>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>cbf92db8-a1a5-4ff0-b9cb-9050a897d481</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>REG</sign>
+					
+					
+					<rfakey>anr:20:REG:1100</rfakey>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<sectiontype>sh</sectiontype>
+					
+					
+					<propertycurrentsubpartition>general</propertycurrentsubpartition>
+					
+					
+					<devicechannelkey>4</devicechannelkey>
+					
+					
+					<signforcompany>H2</signforcompany>
+					
+					
+					<weight>257</weight>
+					
+					
+					<levels>1</levels>
+					
+					
+					<montage>stand</montage>
+					
+					
+					<channeltype>outflow</channeltype>
+					
+					
+					<name>Шумоглушение+промежуточный блок</name>
+					
+					
+					<companysign>ovk</companysign>
+					
+					
+					<stsize>20</stsize>
+					
+					
+					<children>
+						
+						
+						<inner>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back/>
+							
+						
+						</inner>
+						
+						
+						<outer>
+							
+							
+							<top/>
+							
+							
+							<bottom/>
+							
+							
+							<left/>
+							
+							
+							<right/>
+							
+							
+							<front/>
+							
+							
+							<back>
+								
+								
+								<sectiontype>panel</sectiontype>
+								
+								
+								<propertycurrentsubpartition>general</propertycurrentsubpartition>
+								
+								
+								<devicechannelkey/>
+								
+								
+								<signforcompany>P1</signforcompany>
+								
+								
+								<weight>24.5</weight>
+								
+								
+								<levels>1</levels>
+								
+								
+								<montage>stand</montage>
+								
+								
+								<channeltype>outflow</channeltype>
+								
+								
+								<name>Торцевая панель с гибкой вставкой (на половину сечение)</name>
+								
+								
+								<companysign>ovk</companysign>
+								
+								
+								<stsize>20</stsize>
+								
+								
+								<children>
+									
+									
+									<inner>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back/>
+										
+									
+									</inner>
+									
+									
+									<outer>
+										
+										
+										<top/>
+										
+										
+										<bottom/>
+										
+										
+										<left/>
+										
+										
+										<right/>
+										
+										
+										<front/>
+										
+										
+										<back>
+											
+											
+											<sectionholdertype>optnoise</sectionholdertype>
+											
+											
+											<percentrecyclingwinter/>
+											
+											
+											<isoutside>true</isoutside>
+											
+											
+											<qmax>0</qmax>
+											
+											
+											<sectiontype>za</sectiontype>
+											
+											
+											<isbypass>false</isbypass>
+											
+											
+											<propertycurrentsubpartition>general</propertycurrentsubpartition>
+											
+											
+											<devicechannelkey/>
+											
+											
+											<signforcompany>K1</signforcompany>
+											
+											
+											<weight>42.1</weight>
+											
+											
+											<levels>1</levels>
+											
+											
+											<montage>stand</montage>
+											
+											
+											<channeltype>outflow</channeltype>
+											
+											
+											<name>Заслонка торцевая</name>
+											
+											
+											<companysign>ovk</companysign>
+											
+											
+											<stsize>20</stsize>
+											
+											
+											<children>
+												
+												
+												<inner>
+													
+													
+													<top/>
+													
+													
+													<bottom/>
+													
+													
+													<left/>
+													
+													
+													<right/>
+													
+													
+													<front/>
+													
+													
+													<back/>
+													
+												
+												</inner>
+												
+												
+												<outer>
+													
+													
+													<top/>
+													
+													
+													<bottom/>
+													
+													
+													<left/>
+													
+													
+													<right/>
+													
+													
+													<front/>
+													
+													
+													<back/>
+													
+												
+												</outer>
+												
+											
+											</children>
+											
+											
+											<content/>
+											
+											
+											<dimensions>
+												
+												
+												<length>125</length>
+												
+												
+												<height>1040</height>
+												
+												
+												<width>1632</width>
+												
+											
+											</dimensions>
+											
+											
+											<imagedimensions>
+												
+												
+												<length>125</length>
+												
+												
+												<height>1040</height>
+												
+												
+												<width>1632</width>
+												
+											
+											</imagedimensions>
+											
+											
+											<flowinair>21415</flowinair>
+											
+											
+											<flowoutair>21415</flowoutair>
+											
+											
+											<serviceside>right</serviceside>
+											
+											
+											<subtype>cap</subtype>
+											
+											
+											<devicetype>anr</devicetype>
+											
+											
+											<floor>2</floor>
+											
+											
+											<largeframe>false</largeframe>
+											
+											
+											<beforefan>false</beforefan>
+											
+											
+											<location>std</location>
+											
+											
+											<isdraw>true</isdraw>
+											
+											
+											<calcforeurope>false</calcforeurope>
+											
+											
+											<uniqid>Section_62417c39f3496</uniqid>
+											
+											
+											<flowvelocityair/>
+											
+											
+											<droppressureair/>
+											
+											
+											<uuid>919d830c-52be-4057-a327-bddb3136f9be</uuid>
+											
+											
+											<incombo>false</incombo>
+											
+											
+											<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+											
+											
+											<diameterdrainagepipe>0</diameterdrainagepipe>
+											
+											
+											<fillingvolume>0</fillingvolume>
+											
+											
+											<savepropertyvalue/>
+											
+											
+											<isafterstreet>false</isafterstreet>
+											
+											
+											<esatechinfo/>
+											
+											
+											<esatechwarning/>
+											
+											
+											<esacritical/>
+											
+											
+											<tinairinflowwinter/>
+											
+											
+											<toutairinflowwinter/>
+											
+											
+											<tinairoutflowwinter/>
+											
+											
+											<humidityinairinflowwinter/>
+											
+											
+											<humidityoutairinflowwinter/>
+											
+											
+											<humidityinairoutflowwinter/>
+											
+											
+											<temptransferwinter>false</temptransferwinter>
+											
+											
+											<humidityoutwinter/>
+											
+											
+											<toutairwinter/>
+											
+											
+											<tinairwinter/>
+											
+											
+											<humidityinwinter/>
+											
+											
+											<recycletype/>
+											
+											
+											<recycletypewinter/>
+											
+											
+											<hassummer>false</hassummer>
+											
+											
+											<haswinter>false</haswinter>
+											
+											
+											<sign>ZA</sign>
+											
+											
+											<rfakey>anr:20:ZA:125</rfakey>
+											
+										
+										</back>
+										
+									
+									</outer>
+									
+								
+								</children>
+								
+								
+								<content/>
+								
+								
+								<dimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</dimensions>
+								
+								
+								<imagedimensions>
+									
+									
+									<length>150</length>
+									
+									
+									<height>1040</height>
+									
+									
+									<width>1582</width>
+									
+								
+								</imagedimensions>
+								
+								
+								<flowinair>21415</flowinair>
+								
+								
+								<flowoutair>21415</flowoutair>
+								
+								
+								<serviceside>right</serviceside>
+								
+								
+								<subtype>p1</subtype>
+								
+								
+								<devicetype>anr</devicetype>
+								
+								
+								<floor>2</floor>
+								
+								
+								<largeframe>false</largeframe>
+								
+								
+								<beforefan>true</beforefan>
+								
+								
+								<location>std</location>
+								
+								
+								<isdraw>true</isdraw>
+								
+								
+								<calcforeurope>false</calcforeurope>
+								
+								
+								<uniqid>Section_62417c39f345e</uniqid>
+								
+								
+								<flowvelocityair/>
+								
+								
+								<droppressureair/>
+								
+								
+								<uuid>15b86ba5-5816-4825-8943-4f696266a7d7</uuid>
+								
+								
+								<incombo>false</incombo>
+								
+								
+								<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+								
+								
+								<diameterdrainagepipe>0</diameterdrainagepipe>
+								
+								
+								<fillingvolume>0</fillingvolume>
+								
+								
+								<savepropertyvalue/>
+								
+								
+								<isafterstreet>false</isafterstreet>
+								
+								
+								<esatechinfo/>
+								
+								
+								<esatechwarning/>
+								
+								
+								<esacritical/>
+								
+								
+								<sign>PANEL.P1</sign>
+								
+								
+								<rfakey>anr:20:PANEL.P1:150</rfakey>
+								
+							
+							</back>
+							
+						
+						</outer>
+						
+					
+					</children>
+					
+					
+					<content/>
+					
+					
+					<dimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</dimensions>
+					
+					
+					<imagedimensions>
+						
+						
+						<length>1625</length>
+						
+						
+						<height>1660</height>
+						
+						
+						<width>1660</width>
+						
+					
+					</imagedimensions>
+					
+					
+					<flowinair>21415</flowinair>
+					
+					
+					<flowoutair>21415</flowoutair>
+					
+					
+					<serviceside>right</serviceside>
+					
+					
+					<subtype>unoise</subtype>
+					
+					
+					<devicetype>anr</devicetype>
+					
+					
+					<floor>2</floor>
+					
+					
+					<largeframe>false</largeframe>
+					
+					
+					<beforefan>false</beforefan>
+					
+					
+					<location>std</location>
+					
+					
+					<isdraw>true</isdraw>
+					
+					
+					<calcforeurope>false</calcforeurope>
+					
+					
+					<uniqid>Section_62417c39f3426</uniqid>
+					
+					
+					<flowvelocityair/>
+					
+					
+					<droppressureair/>
+					
+					
+					<uuid>541e3e5b-67bf-4977-bb3e-4b2632d91aa7</uuid>
+					
+					
+					<incombo>false</incombo>
+					
+					
+					<devicechannelcountexcludereserve>2</devicechannelcountexcludereserve>
+					
+					
+					<diameterdrainagepipe>0</diameterdrainagepipe>
+					
+					
+					<fillingvolume>0</fillingvolume>
+					
+					
+					<savepropertyvalue/>
+					
+					
+					<isafterstreet>false</isafterstreet>
+					
+					
+					<esatechinfo/>
+					
+					
+					<esatechwarning/>
+					
+					
+					<esacritical/>
+					
+					
+					<sign>SH.LONG</sign>
+					
+					
+					<rfakey>anr:20:SH.LONG:1625</rfakey>
+					
+				
+				</item>
+				
+			
+			</sections>
+			
+			
+			<group>1</group>
+			
+			
+			<reservechannel/>
+			
+			
+			<reservefan>false</reservefan>
+			
+			
+			<positionreservefan>position-reserve-fan-none</positionreservefan>
+			
+			
+			<reserveengine>false</reserveengine>
+			
+			
+			<heatnoisesafe>false</heatnoisesafe>
+			
+			
+			<devicetype>anr</devicetype>
+			
+			
+			<companysign>ovk</companysign>
+			
+			
+			<trademark/>
+			
+			
+			<channelnum>1</channelnum>
+			
+			
+			<isreservechannel>false</isreservechannel>
+			
+			
+			<location>std</location>
+			
+			
+			<calcforeurope>false</calcforeurope>
+			
+			
+			<uniqid>Channel_62417c39f322e</uniqid>
+			
+			
+			<uuid>c44df07a-9f25-479c-a8db-108ad874c7e9</uuid>
+			
+			
+			<isziehlfan>false</isziehlfan>
+			
+			
+			<hasfirrigation>false</hasfirrigation>
+			
+			
+			<hasplateheatexchanger>false</hasplateheatexchanger>
+			
+			
+			<esatechinfo/>
+			
+			
+			<esatechwarning/>
+			
+			
+			<esacritical/>
+			
+			
+			<name>P/2P1/2F1/2H2/2V1.1.P80.R-15x15/R2/2H2/2P1/2K1</name>
+			
+			
+			<weight>1172.1</weight>
+			
+		
+		</item>
+		
+	
+	</channels>
+	
+	
+	<montage>stand</montage>
+	
+	
+	<location>std</location>
+	
+	
+	<serviceside>left</serviceside>
+	
+	
+	<isdeleted>false</isdeleted>
+	
+	
+	<companysign>ovk</companysign>
+	
+	
+	<trademark/>
+	
+	
+	<reasonswhycantsave/>
+	
+	
+	<calcforeurope>false</calcforeurope>
+	
+	
+	<uniqid>VentUnit_62417c39f2e19</uniqid>
+	
+	
+	<frameheight>400</frameheight>
+	
+	
+	<curdeviceid>16</curdeviceid>
+	
+	
+	<dimensioncache>
+		
+		
+		<resultinfo>
+			
+			
+			<channels>
+				
+				
+				<item>
+					
+					
+					<lenbeforedblsec>1675</lenbeforedblsec>
+					
+					
+					<lenafterdblsec>8225</lenafterdblsec>
+					
+				
+				</item>
+				
+				
+				<item>
+					
+					
+					<lenbeforedblsec>3825</lenbeforedblsec>
+					
+					
+					<lenafterdblsec>1625</lenafterdblsec>
+					
+				
+				</item>
+				
+			
+			</channels>
+			
+			
+			<lendblsections>1100</lendblsections>
+			
+			
+			<width>1660</width>
+			
+			
+			<hasplate>false</hasplate>
+			
+			
+			<lenbot>11000</lenbot>
+			
+			
+			<lentop>6550</lentop>
+			
+		
+		</resultinfo>
+		
+		
+		<resultdimension>
+			
+			
+			<length>11000</length>
+			
+			
+			<height>3320</height>
+			
+			
+			<width>1660</width>
+			
+		
+		</resultdimension>
+		
+	
+	</dimensioncache>
+	
+	
+	<esatechinfo/>
+	
+	
+	<esatechwarning/>
+	
+	
+	<esacritical/>
+	
+	
+	<weight>4828.9</weight>
+	
+	
+	<name>AIRNED-M20 L/3K1/3P1/3F1/3F7/3R2/3N1.3/U1.1/3C1.3/3N1.2/3H2/3V1.1.P80.R-18,5x15/3H1/3B1 + P/2P1/2F1/2H2/2V1.1.P80.R-15x15/R2/2H2/2P1/2K1</name>
+	
+	
+	<dimensions>
+		
+		
+		<length>11000</length>
+		
+		
+		<height>3320</height>
+		
+		
+		<width>1660</width>
+		
+	
+	</dimensions>
+	
+	
+	<channelscount>2</channelscount>
+	
+	
+	<consolidateddata>AIRNED-M20 L/3K1/3P1/3F1/3F7/3R2/3N1.3/U1.1/3C1.3/3N1.2/3H2/3V1.1.P80.R-18,5x15/3H1/3B1 + P/2P1/2F1/2H2/2V1.1.P80.R-15x15/R2/2H2/2P1/2K1
+Фильтр карманный укороченный F1
+Боковая панель P1
+Заслонка торцевая K1
+Фильтр карманный F7
+Роторный регенератор R2
+Водяной нагреватель N1.3
+Форсуночное увлажнение U1.1
+Водяной охладитель C1.3
+Водяной нагреватель N1.2
+Удлиненный шумоглушитель H2
+Вентилятор выхлоп прямо V1.1.P80.R-18,5x15, 23290, 800, 16.19
+optnoise H1
+Гибкая вставка B1
+Фильтр карманный укороченный F1
+Боковая панель P1
+Удлиненный шумоглушитель H2
+Вентилятор выхлоп прямо V1.1.P80.R-15x15, 21415, 700, 8.65
+Роторный регенератор R2
+Удлиненный шумоглушитель H2
+Боковая панель P1
+Заслонка торцевая K1</consolidateddata>
+	
+
+</response>
